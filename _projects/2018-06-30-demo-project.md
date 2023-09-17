@@ -1,8 +1,8 @@
 ---
-title: 'Demo Project'
-subtitle: 'This is a demo'
-date: 2018-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+title: 'MIT First Ever Virtual Robotics Competition'
+subtitle: 'Video by Andrea Lehn'
+date: 2021-08-04 00:00:00
+description: Video robotics competition project page 
 featured_image: '/images/video_robotics.jpg'
 ---
 
