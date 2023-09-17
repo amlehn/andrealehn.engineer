@@ -1,8 +1,8 @@
 ---
 title: 'Video Project'
 subtitle: 'MITs first ever virtual robot competition'
-date: 2031-08-04 00:00:00
-description: 
+date: 2021-08-04 00:00:00
+description: Virtual robot competition video
 featured_image: '/images/video_robotics.jpg'
 ---
 
