@@ -14,4 +14,4 @@ featured_image: /images/demo/demo-landscape.jpg
 | MIT                                 | lehn@mit.edu              |
 | All other inquiries                 | Andrea.Lehn@gmail.com     |
 
-You can also find Andrea on [LinkedIn](https://www.linkedin.com/in/amlehn/) and MIT Handshake.
+You can also find Andrea on [LinkedIn](https://www.linkedin.com/in/amlehn/) and [MIT Handshake Alumni Network](https://app.joinhandshake.com/stu/users/18825035).
