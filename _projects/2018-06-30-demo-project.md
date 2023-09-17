@@ -1,5 +1,5 @@
 ---
-title: 'MIT First Ever Virtual Robotics Competition'
+title: MIT's First Ever Virtual Robotics Competition
 subtitle: 'Video by Andrea Lehn'
 date: 2021-08-04 00:00:00
 description: Video robotics competition project page 
