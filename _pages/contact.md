@@ -4,7 +4,7 @@ subtitle:
 description: Andrea Lehn contact information 
 ---
 
-# To contact Andrea about:
+## To contact Andrea about:
 
 | Role                                | Contact email             |
 |-------------------------------------|---------------------------|
