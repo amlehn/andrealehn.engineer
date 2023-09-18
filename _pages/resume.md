@@ -6,14 +6,10 @@ description: Andrea Lehn contact information
 
 ## My Journey
 
-I am Andrea is a PhD candidate whose research integrates analytical science, solid mechanics, and environmental
-chemistry to investigate microplastics, which pose a serious and growing threat to the health of our planet. Through her
-studies in mechanical and biomedical engineering, Andrea also possesses background knowledge in fluid mechanics, heat
-and mass transfer, and biology.
+I am  a PhD candidate whose research integrates analytical science, solid mechanics, and environmental
+chemistry to investigate microplastics, which pose a serious and growing threat to the health of our planet. Through my studies in mechanical and biomedical engineering, I also possess background knowledge in fluid mechanics, heat and mass transfer, and biology.
 
-I am passionate about applying her skills to find sustainable
-solutions to the world’s biggest challenges, and is seeking job opportunities that will give me opportunities to grow as
-a critical thinker, expand her data science skills, and contribute to the health of people and planet.
+I am passionate about applying my skills to find sustainable solutions to the world’s biggest challenges, and I am seeking a career that will give me opportunities to grow as a critical thinker, expand my data science skills, and contribute to the health of people and planet.
 
 # Education
 
@@ -62,10 +58,8 @@ Cumulative GPA: 3.7
 ### Communication Lab Fellow
 
 May 2020 - Sep 2023 (3 years, 5 months) | Cambridge, MA
-As a CommLab Fellow I served as a coach to help mechanical engineers improve their technical communication skills. I
-facilitated workshops, contributed to public facing online content, and worked with clients in one-on-one settings.
-Content focused on all aspects of technical communication, such as fellowship applications, job talks, inclusive
-mentorship strategies, and more.
+
+As a CommLab Fellow I served as a coach to help mechanical engineers improve their technical communication skills. I  facilitated workshops, contributed to public facing online content, and worked with clients in one-on-one settings. Content focused on all aspects of technical communication, such as fellowship applications, job talks, inclusive mentorship strategies, and more.
 
 ## Dow Chemical
 
@@ -81,9 +75,8 @@ understand degradation at the molecular scale.
 ### Assistant video producer
 
 Sep 2019 - Jun 2023 (3 years, 10 months) | Cambridge, MA
-I worked with the Mechanical Engineering creative lead John Freidah to create video content showcasing the department's
-courses, students, and academic activities. I contributed to filming, interviewing, editing and post production for
-multiple course videos and student profiles, which are featured on MechE's YouTube channel.
+
+I worked with the Mechanical Engineering creative lead John Freidah to create video content showcasing the department's courses, students, and academic activities. I contributed to filming, interviewing, editing and post production for multiple course videos and student profiles, which are featured on MechE's YouTube channel.
 
 ## Woods Hole Oceanographic Institution
 
@@ -130,8 +123,7 @@ University) and Leftwich Lab (GW), conducted at Lauder Lab.
 
 ### Co-creator and student liaison
 
-Sep 2020 - Jun 2023 (2 years, 10 months)
-| Cambridge, Massachusetts, United States
+Sep 2020 - Jun 2023 (2 years, 10 months)  | Cambridge, MA, United States
 
 MechE ENGAGE (Empowering New Grads to Achieve Graduate Excellence) is a mentorship program for incoming graduate
 students from traditionally underserved populations. The program aims to foster trusting relationships, build networks,
@@ -142,8 +134,7 @@ three program implementations. As of 2023, the program continues with new studen
 
 ### Gear Librarian
 
-May 2022 - May 2023 (1 year, 1 month)
-| Cambridge, Massachusetts, United States
+May 2022 - May 2023 (1 year, 1 month) | Cambridge, Massachusetts, United States
 
 I helped coordinate individual and group gear rentals to support official programs hosted by the MIT Outing Club and
 other MIT affiliated groups who are hosting outdoor-oriented events
@@ -152,18 +143,16 @@ other MIT affiliated groups who are hosting outdoor-oriented events
 
 ### Co-president
 
-Sep 2017 - Sep 2021 (4 years, 1 month)
-| Cambridge, Massachusetts, United States
+Sep 2017 - Sep 2021 (4 years, 1 month) | Cambridge, Massachusetts, United States
 
-As co-president of the mechanical engineering graduate association of women (MEGAWomen), I co-led the leadership team to
-host programming for graduate women focused on community building, academic support, and professional development. I
-worked with departmental leadership to improve the graduate experience for women in mechanical engineering.
+As co-president of the mechanical engineering graduate association of women (MEGAWomen), I co-led the leadership team to host programming for graduate women focused on community building, academic support, and professional development. I worked with departmental leadership to improve the graduate experience for women in mechanical engineering.
 
 ## MISTI Global Teaching Lab
 
 ### Instructor
 
 Jan 2019 - Jan 2019 (1 month) | Santiago, Santiago Metropolitan Region, Chile
+
 I co-taught a course in physics to students in a summer outreach program,
 which included curriculum development, delivering lectures, and working with
 students on exploratory projects in hand-on lab sessions.
